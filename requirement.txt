@@ -1,0 +1,11 @@
+lolcat
+boxes
+flask
+requests
+kali linux
+python 3.0
+certifi
+charset-normalizer
+idna
+requests
+urllib3
